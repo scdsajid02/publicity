@@ -35,15 +35,11 @@ h2{
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
-.label{
-    float: right;
-    margin-top: 0px;
-    padding-top: opx;
-}
+
 
 H5{
     margin-left: 100PX;
-    margin-top: 0px;
+    margin-top: 10px;
     color: greenyellow;
 
 }
